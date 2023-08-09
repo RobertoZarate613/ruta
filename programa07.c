@@ -8,16 +8,13 @@ int main() {
     double num1, num2;
     system("clear");
     printf("ingrese el primer numero:");
-    if (scanf("%lf",&num1) !=1) { 
+    if (scanf("%lf", &num1) !=1) { 
         printf("Error: Ingrese un numero real valido.\n");
         return 1;
         }
-     
-     print("Error: ingrese un numero real valido.\n");
-     return 1;
 
      printf("ingrese el segundo numero:");
-     if (scanf("%lf",%num2) !=1) { 
+     if (scanf("%lf",&num2) !=1) { 
         printf("Error: Ingrese un numero real valido.\n");
         return 1;
         }
@@ -26,7 +23,7 @@ int main() {
      double resta=num1 - num2;
      double multiplicacion=num1 * num2;
 
-     if(num2==o) { 
+     if(num2==0) { 
         printf("Error: No se puede dividir entre cewro.\n");
         }
      double division= num1 / num2;
