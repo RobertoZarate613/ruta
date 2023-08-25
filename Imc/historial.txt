@@ -1,0 +1,3 @@
+Peso: 60.00 kg, Altura: 1.70 m, IMC: 20.76
+Peso: 75.00 kg, Altura: 1.80 m, IMC: 23.15
+Peso: 74.00 kg, Altura: 1.60 m, IMC: 28.91
