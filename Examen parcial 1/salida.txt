@@ -1,0 +1,5 @@
+Inicio del juego
+has sacado 5 y un 5. La suma es 10.
+Dejar de lanzar.
+ningun resultado.
+Fin del juego
