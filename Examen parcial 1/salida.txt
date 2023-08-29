@@ -1,5 +1,15 @@
 Inicio del juego
-has sacado 5 y un 5. La suma es 10.
-Dejar de lanzar.
-ningun resultado.
+has sacado 3 y un 5. La suma es 8.
+Has ganando el juego
 Fin del juego
+Calificaciones: 50.00 60.00 70.00 80.00 90.00 
+Estadisticas: 70.00 70.00 60.00 40.00 14.14 200.00 
+Precio: 95.00 Q
+IVA: 11.40 Q
+Sin IVA: 83.60 Q
+Numero: 85
+Primo: No
+Estudiante: robertozarate
+Materias: matematicas lenguaje computacion 
+Notas: 80.00 70.00 80.00 
+Promedio: 76.67
