@@ -1,0 +1,4 @@
+estudiante
+roberto, zarate estudiante
+admin, password administrador
+eduardo, zarate profesor

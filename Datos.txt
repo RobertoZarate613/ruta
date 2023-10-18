@@ -1,0 +1,4 @@
+[]Roberto,72534c4a93ddc043fe3229ed46b1d526c4ccc747febdcd0f284f7f6057a37858,Estudiante,julio ,zarate,2997331650101,10 de septiembre,36459824,robertozarate613@gmail.com
+roberto,523f827166ac462e2f63dd954f73dffd5d27f66fe9570c277a53192115b32cfd,Estudiante,roberto,zarate,2997331650101,10 de septiembre,36459824,robertozarate613@gmail.com
+admin,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,Administrador
+selvin,89628677446f83f1a975a9e1ed4fda1f1f828c2c5be5b6451ea283e323f07f8d,Estudiante,selvin,lopez,2997331650101,10 de septiembre,364598224,robertozarate613@gmail.com

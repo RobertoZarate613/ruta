@@ -1,0 +1,3 @@
+C
+codigo: 502, Costo: 45, Horario: 7 a 9, Cupo: 30, Nombre del catedratico: alexander 
+codigo: 509, Costo: 45, Horario: 7 a 9, Cupo: 10, Nombre del catedratico: mario
