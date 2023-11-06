@@ -1,3 +1,22 @@
-C
-codigo: 502, Costo: 45, Horario: 7 a 9, Cupo: 30, Nombre del catedratico: alexander 
-codigo: 509, Costo: 45, Horario: 7 a 9, Cupo: 10, Nombre del catedratico: mario
+
+codigo: matematicas
+Costo: 45
+Horario: 4 a 7  
+materia: 45
+Cupo: 10
+Nombre del catedratico: romeo
+
+codigo: lenguaje
+Costo: 89
+Horario: 8
+materia: 66
+Cupo: 30
+Nombre del catedratico: estrada
+
+codigo: 65
+Costo: 42
+Horario: lunes
+materia: sociales
+Cupo: 66
+Nombre del catedratico: mendez
+

@@ -1,0 +1,9 @@
+materia: 45
+Nombre del catedratico: romeo
+
+materia: 66
+Nombre del catedratico: estrada
+
+Nombre del catedratico: mendez
+materia: sociales
+

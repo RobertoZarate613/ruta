@@ -1,0 +1,7 @@
+Nombre:Julio 
+Apellido:Zarate
+DPI:2997331650101
+Fecha de nacimiento:10 de septiembre
+Telefono: 36459824
+Correo Electronico: robertozarate613@gmail.com
+Contraseña incriptada: 523f827166ac462e2f63dd954f73dffd5d27f66fe9570c277a53192115b32cfd

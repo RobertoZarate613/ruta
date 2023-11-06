@@ -1,0 +1,7 @@
+Curso: social
+Zona: 15
+Examen1: 14
+Examen2: 16
+Examen3: 18
+Examenfinal: 17
+

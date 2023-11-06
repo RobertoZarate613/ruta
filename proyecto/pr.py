@@ -251,3 +251,18 @@ ventana.mainloop()
 
    boton_modificar = tk.Button(ventana_cur, text="Modificar", command=lambda: curso.modificar(entrada_costo.get(), entrada_horario.get(), entrada_codigo.get(), entrada_cupo.get(), entrada_nombre_catedratico.get())) 
     boton_modificar.grid(row=6, column=1) 
+    //////////////////////////////////////////
+    def lista_actualizar():   
+    # Creamos una lista para mostrar los cursos que coincidan con el nombre del catedrático que se ingrese y la colocamos en la grilla
+        lista_cursos = tk.Listbox(ventana_cur)
+        lista_cursos.grid(row=14, columnspan=10) 
+        with open("Materia.txt", "r") as archivo: # Se abre el archivo en modo de lectura
+            lineas = archivo.readlines()# Se lee el contenido del archivo como una lista de líneas
+    
+            for linea in lineas: # Se recorre la lista de líneas
+                 if entrada_nombre_catedratico.get() in linea:# Se verifica que el nombre del catedrático esté en la línea
+                    lista_cursos.insert(tk.END, linea)# Se inserta la línea en la lista de cursos
+                    print(linea) # Se imprime la línea en la consola
+    # Se crea un botón para editar un curso
+    boton_Actulizar = tk.Button(ventana_cur, text="Actulizar", command= lista_actualizar) 
+    boton_Actulizar.grid(row=10, column=4) # Se coloca el botón en la grilla
